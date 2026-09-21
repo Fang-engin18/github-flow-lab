@@ -1,5 +1,7 @@
+// Программа приветствия для лабораторной работы №3
 #include <iostream>
 
 int main() {
-    std::cout << "Hello" << std::endl;
+    // Выводим приветствие
+    std::cout << "Hello " << '\n';
 }
